@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 
 # ---------- Page setup ----------
 st.set_page_config(
-    page_title="Code Converter",
+    page_title="Codeswitch",
     page_icon="💻",
     layout="wide",
     initial_sidebar_state="expanded",
